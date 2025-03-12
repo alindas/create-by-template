@@ -1,0 +1,39 @@
+{
+  "name": "make-shit",
+  "version": "1.0.0",
+  "description": "use cli to make a project",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "make-shit": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alindas/make-shit"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "make",
+    "project",
+    "react",
+    "vue",
+    "koa",
+    "threejs"
+  ],
+  "author": "alindas",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.3",
+    "ora": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "create-by-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use cli to make a project",
   "type": "module",
   "main": "index.js",

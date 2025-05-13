@@ -5,3 +5,9 @@
 
 ```bash
 npx create-by-template [react | vue | koa | threejs]
+```
+
+## 发布新版本到指定仓库
+```bash
+npm publish --registry=https://registry.npmjs.org
+```

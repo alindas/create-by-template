@@ -1,15 +1,15 @@
 {
-  "name": "make-shit",
+  "name": "create-by-template",
   "version": "1.0.0",
   "description": "use cli to make a project",
   "type": "module",
   "main": "index.js",
   "bin": {
-    "make-shit": "index.js"
+    "create-by-template": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alindas/make-shit"
+    "url": "git+https://github.com/alindas/create-by-template.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

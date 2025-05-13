@@ -2,5 +2,6 @@
 
 当前支持 react、vue、koa、threejs 等模板。
 ## 使用方法
+
 ```bash
-npx make-shit
+npx create-by-template [react | vue | koa | threejs]
